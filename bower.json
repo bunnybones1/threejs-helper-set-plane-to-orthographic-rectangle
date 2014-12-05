@@ -1,0 +1,28 @@
+{
+  "name": "threejs-helper-set-plane-orthographic-rectangle",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Tomasz Dysinski <oz@bunnybones.com>"
+  ],
+  "description": "A convenient top-left centric positioning function for positioning rectangle meshes in x and y. Perfect for orthographic cameras. Just be sure that the plane you're running it on is 1x1 in size.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "threejs",
+    "rectangle",
+    "mesh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "three.js": "*"
+  }
+}
