@@ -1,5 +1,5 @@
 {
-  "name": "threejs-helper-set-plane-orthographic-rectangle",
+  "name": "threejs-helper-set-plane-to-orthographic-rectangle",
   "main": "index.js",
   "version": "1.0.0",
   "authors": [

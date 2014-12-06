@@ -1,4 +1,4 @@
-# threejs-helper-set-plane-orthographic-rectangle
+# threejs-helper-set-plane-to-orthographic-rectangle
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
@@ -6,8 +6,8 @@ A convenient top-left centric positioning function for positioning rectangle mes
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/threejs-helper-set-plane-orthographic-rectangle.png)](https://nodei.co/npm/threejs-helper-set-plane-orthographic-rectangle/)
+[![NPM](https://nodei.co/npm/threejs-helper-set-plane-to-orthographic-rectangle.png)](https://nodei.co/npm/threejs-helper-set-plane-to-orthographic-rectangle/)
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/bunnybones1/threejs-helper-set-plane-orthographic-rectangle/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/bunnybones1/threejs-helper-set-plane-to-orthographic-rectangle/blob/master/LICENSE.md) for details.
